@@ -12,3 +12,5 @@ output.AVI es el video inicial (se llama output porque es un recorte de un video
 deteccion_doblepez.AVI es un video que muestra el resultado.
 
 se puede hacer que el programa grabe un video descomentando las lineas 137, 138, 253 y 267
+
+El Progama requiere openCV 4.7.0 y Tensorflow
